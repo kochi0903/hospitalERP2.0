@@ -1,0 +1,83 @@
+{
+  "about": {
+    "mission": "Providing exceptional healthcare with compassion and expertise, making quality medical services accessible to all sections of society.",
+    "accreditations": [
+      "Swasthya Sathi Approved",
+      "Govt of West Bengal Approved",
+      "Member of Owner Assosciation"
+    ]
+  },
+  "facilities": [
+    {
+      "name": "General Ward",
+      "facilities": [
+        "24/7 Nursing Care",
+        "Modern Equipment",
+        "Clean Environment"
+      ]
+    },
+    {
+      "name": "Private Rooms",
+      "facilities": ["Clean Rooms", "Attached Bathrooms", "Daily Housekeeping"]
+    },
+    {
+      "name": "Specialist Doctors",
+      "facilities": [
+        "Daily OPD Visits",
+        "Experienced Consultants",
+        "Multi-specialty Support"
+      ]
+    },
+    {
+      "name": "Operation Theater",
+      "facilities": ["Sterile Environment", "Modern Surgical Tools", "AC Rooms"]
+    }
+  ],
+  "teamsArray": [
+    {
+      "name": "Mrs Jaya Ray",
+      "specialisation": "Owner",
+      "imageUrl": "Mrs Jaya Ray"
+    },
+    {
+      "name": "Dr. Soumen Sasmol (MD)",
+      "specialisation": "Obstetrics and Gynecology",
+      "imageUrl": "Orthopedics"
+    },
+    {
+      "name": "Dr. Subodh Dutta (MD)",
+      "specialisation": "Gynecologist",
+      "imageUrl": "Cardiology"
+    },
+    {
+      "name": "Dr. Sandeep Kumar Pari (MS)",
+      "specialisation": "General Surgey",
+      "imageUrl": "Neurology"
+    },
+    {
+      "name": "Dr. Tapas Sarkar (MS)",
+      "specialisation": "General Surgey",
+      "imageUrl": "Cardiology"
+    },
+    {
+      "name": "Dr. Subrata Halder (MS)",
+      "specialisation": "General Surgey",
+      "imageUrl": "Neurology"
+    },
+    {
+      "name": "Dr. Asraf Ali",
+      "specialisation": "Pediatric",
+      "imageUrl": "Neurology"
+    }
+  ],
+  "contact": {
+    "emergency": "+91 9563831241",
+    "reception": "+91 8017933177",
+    "email": "santiclinickatwa@yahoo.in"
+  },
+  "footer_workingHours": {
+    "Emergency": "24/7",
+    "IPD": "9:00 AM - 9:00 PM",
+    "Pharmacy": "8:00 AM - 9:00 PM"
+  }
+}
